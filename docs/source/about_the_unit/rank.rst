@@ -1,9 +1,10 @@
 Ranks and Promotions
 ======================
 
-The 1st Rapid Response Force operates on a system of ranks which are directly tied to the position that the member holds and their seniority within the group. They can be broadly viewed as a representation of time spent in the group and whilst we expected to be respected with respect to decisions in the unit both in and out of combat they do not confer any form of direct seniority in other contexts such as other games or in general conversation.
+Task Force Everest operates on a system of ranks which are directly tied to the position that the member holds and their seniority within the group.
+Ranks can broadly be viewed as a measure of time in the unit and the responsibilities earned.
 
-This runs contrary to some other units courtesies policies that require officers be addressed accordingly at all times which is **NOT** the case in the 1st RRF. Rank should be a measure of time spent in the unit and the level in the chain of command in reference to the formal activities of the unit.
+We expect members to respect ranks because they appreciate the work, mindset and dedication applied by those who hold it.
 
 Rank Structure
 ---------------
@@ -51,13 +52,13 @@ Each rank has an allocated time in service requirement which must be met to beco
 
 **Training Requirments**
 
-Some ranks will require the completion of some qualifications. These will naturally be built up over the course of a member's time in the unit however leadership should constantly evaluate which training programs will offer the best progression opportunities to their element. 
+Some ranks will require the completion of some qualifications. These will naturally be built up over the course of a member's time in the unit however leadership should constantly evaluate which training programs will offer the best progression opportunities to their element.
 
 For example a fire team leader may organise an Air Assault training for his team as he knows several of his fireteam members have aspirations to join the ODA teams. As he is aware of this intent he would schedule this training to help them reach their goals within the unit.
 
 **Interview when moving corps**
 
-When moving from one set of ranks to another - such as SPC to CPL or SFC to 2LT - the member will be subject to an interview by members of the outbound rank structure. For example an NCO promoting to officer will be subject to an interview by at least two members of the officer corps. Both members of the interview panel have a veto on the final decision of the candiate. The two officers should be selected by the Unit Commander in order to provide a fair and unbiased consideration of the candidate.
+When moving from one set of ranks to another - such as SPC to CPL or SFC to 2LT - the member will be subject to an interview by members of the inbound rank structure. For example an NCO promoting to officer will be subject to an interview by at least two members of the officer corps. Both members of the interview panel have a veto on the final decision of the candiate. The two officers should be selected by the Unit Commander in order to provide a fair and unbiased consideration of the candidate.
 
 Ranks in the Reserves
 ---------------------------
@@ -108,13 +109,13 @@ Training Completed: PSG Qualification
 **MSG**
 
 Time in Service: 150 days
-Training Completed: 
+Training Completed:
 	* ODA Selection Pipeline
 
 **SGM**
 
 Time in Service: 360 days
-Training Completed: 
+Training Completed:
 	* ODA Selection Pipeline
 
 **WOC**
@@ -161,5 +162,3 @@ Time in Service: 200 days
 **MAJ**
 
 Time in Service: 360 days
-Special Nomination - Requires a unaninmous board approval of the promotion
-
